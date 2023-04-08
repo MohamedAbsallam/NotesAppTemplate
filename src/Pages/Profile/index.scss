@@ -5,7 +5,7 @@
   .container {
     width: 75%;
     height: 500px;
-    margin: 150px auto;
+    margin: 80px auto;
     animation: fadein 1s ease-in-out;
     transition: all 0.3s ease;
     .row {
@@ -93,7 +93,7 @@
 @media (max-width: 860px) {
   .profile-Page {
     .container {
-      margin: 40px auto;
+      margin: 20px auto;
       .row {
         justify-content: center;
         .profile-Image {
@@ -116,11 +116,12 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          margin-top: -50px;
-          width: 70%;
+          width: 300px;
+          height: 250px;
+          overflow-y: auto;
           .note-Box {
             justify-content: center;
-            width: 100%;
+            width: 90%;
             height: 100%;
             .fa-solid {
               font-size: 16px;

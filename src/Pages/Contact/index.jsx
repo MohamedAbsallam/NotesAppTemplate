@@ -28,7 +28,7 @@ export default function Contact() {
         </header>
         <div className="row">
           <div className="contact-Bg">
-            <img src="./SVGs/contact.svg" alt="Contact" />
+            <img src="././SVGs/contact.svg" alt="Contact" />
           </div>
           <div className="contact-Form">
             <form onSubmit={onSubmit}>

@@ -38,7 +38,7 @@ export default function Register() {
           </h2>
           <span>Explore How Other's Think.</span>
           <div className="register-Background">
-            <img src="./SVGs/register.svg" alt="Register" />
+            <img src="././SVGs/register.svg" alt="Register" />
           </div>
           <hr />
           <div className="register-Form">

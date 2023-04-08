@@ -35,7 +35,7 @@ export default function () {
           </h2>
           <span>Explore How Other's Think.</span>
           <div className="login-Background">
-            <img src="./SVGs/login.svg" alt="Login" />
+            <img src="././SVGs/login.svg" alt="Login" />
           </div>
           <hr />
           <div className="login-Form">

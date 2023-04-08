@@ -25,7 +25,7 @@ export default function Settings() {
         </header>
         <div className="row">
           <div className="settings-Bg">
-            <img src="./SVGs/settings.svg" alt="Settings" />
+            <img src="././SVGs/settings.svg" alt="Settings" />
           </div>
           <form onSubmit={handleSubmit}>
             <input

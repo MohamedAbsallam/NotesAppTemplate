@@ -10,7 +10,7 @@
     .row {
       display: flex;
       align-items: center;
-      margin: 150px auto;
+      margin: 100px auto;
       height: 500px;
       position: relative;
       .box {
@@ -43,7 +43,7 @@
       .notes {
         padding: 10px;
         height: 450px;
-        margin: 100px 10px;
+        margin: 50px 20px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -73,7 +73,7 @@
     }
     .arrow {
       position: absolute;
-      top: 75%;
+      top: 90%;
       left: 49%;
       color: $text-color;
       transition: 0.7s ease-in-out;
@@ -110,8 +110,8 @@
       .notes {
         display: flex !important;
         padding-top: 10px;
-        margin-top: 25%;
-        height: 74vh;
+        margin-top: -30px;
+        height: 67vh;
       }
     }
     .arrow {
