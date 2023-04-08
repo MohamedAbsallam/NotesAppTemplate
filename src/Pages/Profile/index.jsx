@@ -17,7 +17,7 @@ export default function Profile() {
       <div className="container">
         <div className="row">
           <div className="profile-Image">
-            <img src="././SVGs/avatar.svg"/>
+            <img src="././SVGs/avatar.svg" />
           </div>
           <div className="profile-Content">
             <header>
